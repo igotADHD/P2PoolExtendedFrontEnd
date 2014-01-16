@@ -1,2 +1,2 @@
-var siteTitle = "P2Pool Consortium P2Pool";
-var contactAddress = "contact@email-address.com";
+var siteTitle = "LITE.PW Litecoin Pool";
+var contactAddress = "rexjohnston13@yahoo.com";
